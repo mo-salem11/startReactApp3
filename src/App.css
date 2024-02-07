@@ -1,0 +1,15 @@
+:root{
+  --main-color:#1abc9c;
+  --secondary-color:#2c3e50;
+}
+.form-control:focus{
+  box-shadow: none !important;
+}
+input{
+  margin-bottom: 5px;
+}
+label{
+  color:var(--main-color);
+  margin-bottom: 7px;
+  transition:.6s top;
+}

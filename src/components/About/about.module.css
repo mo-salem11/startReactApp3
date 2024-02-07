@@ -1,0 +1,4 @@
+.about{
+    background-color: var(--main-color) !important;
+    min-height: 100vh;
+  }

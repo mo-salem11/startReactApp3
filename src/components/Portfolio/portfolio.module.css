@@ -1,0 +1,15 @@
+.layer{
+    background-color: rgba(26,188,156,.9);
+    opacity: 0;
+    cursor: pointer;
+    transition: .6s opacity;
+  }
+  .layer:hover{
+    opacity: 1;
+  }
+  .model{
+    z-index: 99999;
+  }
+  .image{
+    width:500px;
+  }

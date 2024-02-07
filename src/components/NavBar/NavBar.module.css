@@ -1,0 +1,10 @@
+nav{
+    background-color: var(--secondary-color);
+    transition: padding .3s;
+  }
+.active{
+    background-color:var(--main-color) !important;
+    border-radius: 10px;
+    width:fit-content;
+  }
+  
